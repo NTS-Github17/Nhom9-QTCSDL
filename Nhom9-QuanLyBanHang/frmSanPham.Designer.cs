@@ -54,7 +54,7 @@
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(44, 30);
+            this.label1.Location = new System.Drawing.Point(60, 30);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(64, 20);
             this.label1.TabIndex = 0;
@@ -63,7 +63,7 @@
             // txtMaSP
             // 
             this.txtMaSP.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.txtMaSP.Location = new System.Drawing.Point(109, 30);
+            this.txtMaSP.Location = new System.Drawing.Point(125, 30);
             this.txtMaSP.Name = "txtMaSP";
             this.txtMaSP.Size = new System.Drawing.Size(100, 22);
             this.txtMaSP.TabIndex = 1;
@@ -73,7 +73,7 @@
             this.label2.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(225, 30);
+            this.label2.Location = new System.Drawing.Point(241, 30);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(69, 20);
             this.label2.TabIndex = 2;
@@ -82,7 +82,7 @@
             // txtTenSP
             // 
             this.txtTenSP.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.txtTenSP.Location = new System.Drawing.Point(300, 28);
+            this.txtTenSP.Location = new System.Drawing.Point(316, 28);
             this.txtTenSP.Name = "txtTenSP";
             this.txtTenSP.Size = new System.Drawing.Size(225, 22);
             this.txtTenSP.TabIndex = 3;
@@ -92,7 +92,7 @@
             this.label3.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(550, 34);
+            this.label3.Location = new System.Drawing.Point(566, 34);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(93, 20);
             this.label3.TabIndex = 4;
@@ -112,7 +112,7 @@
             "ly",
             "lon",
             "chai"});
-            this.checkedListBox1.Location = new System.Drawing.Point(649, 28);
+            this.checkedListBox1.Location = new System.Drawing.Point(665, 28);
             this.checkedListBox1.Name = "checkedListBox1";
             this.checkedListBox1.Size = new System.Drawing.Size(120, 38);
             this.checkedListBox1.TabIndex = 5;
@@ -122,7 +122,7 @@
             this.label4.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(46, 96);
+            this.label4.Location = new System.Drawing.Point(62, 96);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(72, 20);
             this.label4.TabIndex = 6;
@@ -131,7 +131,7 @@
             // txtGiaBan
             // 
             this.txtGiaBan.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.txtGiaBan.Location = new System.Drawing.Point(123, 96);
+            this.txtGiaBan.Location = new System.Drawing.Point(139, 96);
             this.txtGiaBan.Name = "txtGiaBan";
             this.txtGiaBan.Size = new System.Drawing.Size(121, 22);
             this.txtGiaBan.TabIndex = 7;
@@ -142,7 +142,7 @@
             this.label5.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(250, 96);
+            this.label5.Location = new System.Drawing.Point(266, 96);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(71, 20);
             this.label5.TabIndex = 8;
@@ -151,7 +151,7 @@
             // txtDonGia
             // 
             this.txtDonGia.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.txtDonGia.Location = new System.Drawing.Point(327, 96);
+            this.txtDonGia.Location = new System.Drawing.Point(343, 96);
             this.txtDonGia.Name = "txtDonGia";
             this.txtDonGia.Size = new System.Drawing.Size(122, 22);
             this.txtDonGia.TabIndex = 9;
@@ -161,7 +161,7 @@
             this.label6.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(459, 96);
+            this.label6.Location = new System.Drawing.Point(475, 96);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(93, 20);
             this.label6.TabIndex = 10;
@@ -170,7 +170,7 @@
             // txtChietKhau
             // 
             this.txtChietKhau.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.txtChietKhau.Location = new System.Drawing.Point(554, 96);
+            this.txtChietKhau.Location = new System.Drawing.Point(570, 96);
             this.txtChietKhau.Name = "txtChietKhau";
             this.txtChietKhau.Size = new System.Drawing.Size(71, 22);
             this.txtChietKhau.TabIndex = 11;
@@ -180,7 +180,7 @@
             this.label7.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(637, 96);
+            this.label7.Location = new System.Drawing.Point(653, 96);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(46, 20);
             this.label7.TabIndex = 12;
@@ -189,7 +189,7 @@
             // txtVAT
             // 
             this.txtVAT.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.txtVAT.Location = new System.Drawing.Point(689, 96);
+            this.txtVAT.Location = new System.Drawing.Point(705, 96);
             this.txtVAT.Name = "txtVAT";
             this.txtVAT.Size = new System.Drawing.Size(75, 22);
             this.txtVAT.TabIndex = 13;
@@ -199,7 +199,7 @@
             this.btnThem.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnThem.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.btnThem.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnThem.Location = new System.Drawing.Point(131, 159);
+            this.btnThem.Location = new System.Drawing.Point(149, 195);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(141, 40);
             this.btnThem.TabIndex = 14;
@@ -211,7 +211,7 @@
             this.btnSua.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnSua.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.btnSua.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSua.Location = new System.Drawing.Point(342, 159);
+            this.btnSua.Location = new System.Drawing.Point(360, 195);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(141, 40);
             this.btnSua.TabIndex = 15;
@@ -223,7 +223,7 @@
             this.btnXoa.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.btnXoa.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.btnXoa.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnXoa.Location = new System.Drawing.Point(544, 159);
+            this.btnXoa.Location = new System.Drawing.Point(562, 195);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(141, 40);
             this.btnXoa.TabIndex = 16;
@@ -234,7 +234,7 @@
             // 
             this.dataGridView1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(58, 228);
+            this.dataGridView1.Location = new System.Drawing.Point(66, 280);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
@@ -245,7 +245,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(816, 450);
+            this.ClientSize = new System.Drawing.Size(849, 506);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.btnXoa);
             this.Controls.Add(this.btnSua);

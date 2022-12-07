@@ -24,3 +24,4 @@ D:\STUDY\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.csproj.C
 D:\STUDY\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.exe
 D:\STUDY\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.pdb
 D:\STUDY\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9_QuanLyBanHang.frmSanPham.resources
+D:\STUDY\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9_QuanLyBanHang.frmNhanVien.resources

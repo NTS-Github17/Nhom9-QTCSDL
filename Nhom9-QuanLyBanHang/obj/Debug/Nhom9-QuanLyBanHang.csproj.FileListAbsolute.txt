@@ -11,6 +11,20 @@ E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.cspro
 E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.csproj.CopyComplete
 E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.exe
 E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.pdb
+<<<<<<< HEAD
+D:\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\bin\Debug\Nhom9-QuanLyBanHang.exe.config
+D:\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\bin\Debug\Nhom9-QuanLyBanHang.exe
+D:\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\bin\Debug\Nhom9-QuanLyBanHang.pdb
+D:\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.csproj.AssemblyReference.cache
+D:\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.csproj.SuggestedBindingRedirects.cache
+D:\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9_QuanLyBanHang.frmKhachHang.resources
+D:\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9_QuanLyBanHang.Properties.Resources.resources
+D:\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.csproj.GenerateResource.cache
+D:\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.csproj.CopyComplete
+D:\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.exe
+D:\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.pdb
+=======
 D:\STUDY\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\bin\Debug\Nhom9-QuanLyBanHang.exe.config
 D:\STUDY\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\bin\Debug\Nhom9-QuanLyBanHang.exe
 D:\STUDY\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\bin\Debug\Nhom9-QuanLyBanHang.pdb
@@ -24,4 +38,8 @@ D:\STUDY\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.csproj.C
 D:\STUDY\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.exe
 D:\STUDY\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.pdb
 D:\STUDY\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9_QuanLyBanHang.frmSanPham.resources
+<<<<<<< HEAD
 D:\STUDY\Nhom9-QTCSDL\Nhom9-QuanLyBanHang\obj\Debug\Nhom9_QuanLyBanHang.frmNhanVien.resources
+=======
+>>>>>>> f0d2213fdccba73221e191eac9b1a32434c68397
+>>>>>>> 01d76f4f4e42de94a5ed8f9474ff9d5b0ebf595b

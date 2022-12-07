@@ -8,16 +8,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Quan_Ly_Nha_Hang
+namespace Nhom9_QuanLyBanHang
 {
-    public partial class QLhanghoa : Form
+    public partial class Form1 : Form
     {
-        public QLhanghoa()
+        public Form1()
         {
             InitializeComponent();
         }
 
-        private void QLhanghoa_Load(object sender, EventArgs e)
+        private void txtTenHH_TextChanged(object sender, EventArgs e)
         {
 
         }

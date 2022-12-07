@@ -10,19 +10,14 @@ using System.Windows.Forms;
 
 namespace Nhom9_QuanLyBanHang
 {
-    public partial class frmNhanVien : Form
+    public partial class Form1 : Form
     {
-        public frmNhanVien()
+        public Form1()
         {
             InitializeComponent();
         }
 
-        private void txtMaNV_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void frmNhanVien_Load(object sender, EventArgs e)
+        private void txtTenHH_TextChanged(object sender, EventArgs e)
         {
 
         }

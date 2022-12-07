@@ -16,7 +16,7 @@ namespace Nhom9_QuanLyBanHang
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmSanPham());
+            Application.Run(new frmNhanVien());
         }
     }
 }

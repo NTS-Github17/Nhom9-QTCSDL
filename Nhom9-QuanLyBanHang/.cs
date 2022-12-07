@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Nhom9_QuanLyBanHang
 {
-    public partial class frmHangHoa : Form
+    public partial class Form1 : Form
     {
-        public frmHangHoa()
+        public Form1()
         {
             InitializeComponent();
-        }
-
-        private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }

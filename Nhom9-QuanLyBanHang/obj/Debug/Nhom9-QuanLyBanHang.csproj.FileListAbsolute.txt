@@ -1,0 +1,13 @@
+E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\bin\Debug\Nhom9-QuanLyBanHang.exe.config
+E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\bin\Debug\Nhom9-QuanLyBanHang.exe
+E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\bin\Debug\Nhom9-QuanLyBanHang.pdb
+E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\bin\Debug\Guna.UI2.dll
+E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.csproj.AssemblyReference.cache
+E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.csproj.SuggestedBindingRedirects.cache
+E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\obj\Debug\Nhom9_QuanLyBanHang.frmKhachHang.resources
+E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\obj\Debug\Nhom9_QuanLyBanHang.Properties.Resources.resources
+E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.csproj.GenerateResource.cache
+E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.csproj.CopyComplete
+E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.exe
+E:\Nhom9 - QuanLyNhaHang\Nhom9-QuanLyBanHang\obj\Debug\Nhom9-QuanLyBanHang.pdb
